@@ -1,8 +1,9 @@
 import streamlit as st
 
-"# Muhammad Ahsan (He/Him)"
+st.title('Muhammad Ahsan (He/Him)')
+st.markdown('**Lead Machine Learning Engineer | Data Solutions Architect | Data Evangelist**')
 
-"### Summary"
+st.subheader('Summary')
 
 st.markdown(
     """
