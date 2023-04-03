@@ -6,8 +6,7 @@ st.set_page_config(page_title="Experience")
 st.header('Experience')
 
 st.subheader('**Lead Machine Learning Engineer**')
-st.markdown('**Eraneos (Ginkgo Analytics)**')
-st.markdown('1 year 1 months (Berlin)')
+st.markdown('**Eraneos (Ginkgo Analytics) - Germany**')
 st.markdown(
     '''    
     **Telecommunication Client**
@@ -21,8 +20,7 @@ st.markdown(
 )
 
 st.subheader('**Senior Machine Learning Engineer**')
-st.markdown('**Freelance**')
-st.markdown('1 year 9 months (Berlin)')
+st.markdown('**Freelance - Germany**')
 st.markdown(
     '''
         - Designing resilient and scalable system architectures of multiple machine learning solutions.
@@ -35,8 +33,7 @@ st.markdown(
 )
 
 st.subheader('**Lead Data Scientist**')
-st.markdown('**FREENOW**')
-st.markdown('1 year 2 months (Berlin)')
+st.markdown('**FREENOW - Germany**')
 st.markdown(
     '''
         My major responsibility was to grow and lead a data science team in Berlin and transform it into an autonomous 
@@ -60,8 +57,7 @@ st.markdown(
 )
 
 st.subheader('**Data Scientist**')
-st.markdown('**BD4**')
-st.markdown('2 year 5 months (Frankfurt am Main)')
+st.markdown('**BD4Travel - Germany**')
 st.markdown(
     '''
         As an individual contributor, I was mainly responsible for machine learning initiatives, building and 
@@ -85,8 +81,7 @@ st.markdown(
 )
 
 st.subheader('**Data Scientist**')
-st.markdown('**AVAST Software**')
-st.markdown('2 year 3 months (Prague)')
+st.markdown('**AVAST - Czech Republic**')
 st.markdown(
     '''
         As an individual contributor, I have worked in marketing intelligence using big data analytics and machine
@@ -109,8 +104,7 @@ st.markdown(
 )
 
 st.subheader('**Research Intern**')
-st.markdown('**Yahoo Research**')
-st.markdown('6 months (Barcelona)')
+st.markdown('**Yahoo Research - Spain**')
 st.markdown(
     '''
      I worked predominantly in the domain of large social networks and operations research. Key responsibilities included
@@ -124,8 +118,7 @@ st.markdown(
 )
 
 st.subheader('**Software Engineer**')
-st.markdown('**Techlogix**')
-st.markdown('1 year 5 months (Islamabad)')
+st.markdown('**Techlogix - Pakistan**')
 st.markdown(
     '''
         As an individual contributor, I worked as a software engineer focused on the data and logic tier of centralized 
@@ -142,8 +135,7 @@ st.markdown(
 )
 
 st.subheader('**Lab Instructor (Computer Science)**')
-st.markdown('**National University of Computer and Emerging Sciences**')
-st.markdown('1 year 5 months (Islamabad)')
+st.markdown('**National University of Computer and Emerging Sciences - Pakistan**')
 st.markdown(
     '''
         I worked in the computer science department, providing technical coaching to undergraduate students including 
@@ -158,8 +150,7 @@ st.markdown(
 )
 
 st.subheader('**Quality Assurance Officer**')
-st.markdown('**Ministry of IT and Telecom Pakistan**')
-st.markdown('3 months (Islamabad)')
+st.markdown('**Ministry of IT and Telecom - Pakistan**')
 st.markdown(
     '''
         Worked in the domain of event management for execution of a 3 months training program jointly organised by the 
