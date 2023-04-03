@@ -18,11 +18,6 @@ st.markdown(
     - Releasing data science artifacts using BigQuery and GraphQL-based microservices.
     - Setting standards for production-ready ML codebase and best practices.
     
-    **Automotive Client (6 Months)**
-    
-    - Designing resilient and scalable data mesh architecture.
-    - Support migration activity involving strategic reports to a modern cloud based data analytics platform.
-    - Actively support the client in the development of machine learning capabilities.
    '''
 )
 
