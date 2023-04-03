@@ -10,14 +10,13 @@ st.markdown('**Eraneos (Ginkgo Analytics)**')
 st.markdown('1 year 1 months (Berlin)')
 st.markdown(
     '''    
-    **Telecommunication Client (4 Months)**
+    **Telecommunication Client**
     
     - Design an event-driven software architecture of a new Deep Learning (CNN) powered product.
     - Lead the implementation and MLOps of supervised multilabel image and video classification.
     - Implementation of CI/CD for the microservices and ML pipelines on GCP.
     - Releasing data science artifacts using BigQuery and GraphQL-based microservices.
     - Setting standards for production-ready ML codebase and best practices.
-    
    '''
 )
 
