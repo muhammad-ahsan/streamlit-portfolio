@@ -8,7 +8,8 @@ st.header('Contact Information')
 st.markdown(
     """
         - [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan/)
+        - [Twitter](https://twitter.com/_muhammad_ahsan)
         - [Github](https://github.com/muhammad-ahsan)
-        - muhammad.ahsan@gmail.com
+        - [muhammad.ahsan@gmail.com](mailto:muhammad.ahsan@gmail.com)
     """
 )
