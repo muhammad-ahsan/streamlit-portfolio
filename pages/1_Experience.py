@@ -4,6 +4,28 @@ import streamlit as st
 st.set_page_config(page_title="Experience")
 
 st.header('Experience')
+
+st.subheader('**Lead Machine Learning Engineer**')
+st.markdown('**Eraneos (Ginkgo Analytics)**')
+st.markdown('1 year 1 months (Berlin)')
+st.markdown(
+    '''    
+    **Telecommunication Client (4 Months)**
+    
+    - Design an event-driven software architecture of a new Deep Learning (CNN) powered product.
+    - Lead the implementation and MLOps of supervised multilabel image and video classification.
+    - Implementation of CI/CD for the microservices and ML pipelines on GCP.
+    - Releasing data science artifacts using BigQuery and GraphQL-based microservices.
+    - Setting standards for production-ready ML codebase and best practices.
+    
+    **Automotive Client (6 Months)**
+    
+    - Designing resilient and scalable data mesh architecture.
+    - Support migration activity involving strategic reports to a modern cloud based data analytics platform.
+    - Actively support the client in the development of machine learning capabilities.
+   '''
+)
+
 st.subheader('**Senior Machine Learning Engineer**')
 st.markdown('**Freelance**')
 st.markdown('1 year 9 months (Berlin)')
