@@ -13,7 +13,7 @@ st.markdown(
 st.subheader('**Professional Scrum Master™ I (PSM I)**')
 st.markdown(
     '''
-       - Scrum.org
+       - scrum.org
    '''
 )
 st.subheader('**New Models of Business in Society**')
