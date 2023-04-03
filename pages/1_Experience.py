@@ -5,7 +5,7 @@ st.set_page_config(page_title="Experience")
 
 st.header('Experience')
 
-st.subheader('**Lead Machine Learning Engineer**')
+st.subheader('**Senior Data Scientist**')
 st.markdown('**Eraneos (Ginkgo Analytics) - Germany**')
 st.markdown(
     '''    
