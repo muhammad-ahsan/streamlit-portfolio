@@ -14,17 +14,27 @@ st.markdown('''
     - ❤️ I enjoy designing cloud solutions for ML driven applications
     - ⏱ In my free time, I read about technological advancements in science and engineering
     - 🌱 I’m specialized in advanced MLOps and experimenting with deep reinforcement learning
-    - 📫 How to reach me: muhammad.ahsan@gmail.com
     
 ''')
 
 st.subheader('Professional Experience')
 st.markdown(
     '''
-        - Experienced data professional with 12 years of demonstrable professional work history across Europe and Pakistan.
-        - Skilled in Machine Learning, MLOps, Data Architecture, Data Science and Engineering.
-        - Strong expertise in transforming business challenges into tangible data solutions.
-        - Computer Science background with experience of backend development.
-        - Erasmus Mundus Master's degree in Data Mining and Knowledge Management from France and Italy
+        - 🔥 Experienced data professional with 12 years of demonstrable professional work history across Europe and Pakistan.
+        - 🤖 Skilled in Machine Learning, MLOps, Data Architecture, Data Science and Engineering.
+        - 💪 Strong expertise in transforming business challenges into tangible data solutions.
+        - 👨‍💻 Computer Science background with experience of backend development.
+        - 🎓 Erasmus Mundus Master's degree in Data Mining and Knowledge Management from France and Italy
     '''
+)
+
+st.subheader('Languages')
+st.markdown(
+    """
+        - English 🇬🇧 (Fluent)
+        - Deutsch 🇩🇪 (Good Knowledge)
+        - French 🇫🇷 (Basic)
+        - Urdu / Hindi 🇵🇰 (Fluent)
+        - Punjabi 🇵🇰 (Fluent)
+    """
 )
