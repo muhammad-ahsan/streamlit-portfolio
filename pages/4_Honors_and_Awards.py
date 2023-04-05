@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Honors and Awards")
 
-st.header('Honors and Awards')
+st.title('Honors and Awards')
 
 st.subheader('**Erasmus Mundus Scholarship (2011)**')
 st.markdown(

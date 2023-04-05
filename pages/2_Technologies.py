@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.header('Technologies')
+st.title('Technologies')

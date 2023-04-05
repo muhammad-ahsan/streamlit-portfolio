@@ -3,7 +3,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Education")
 
-st.header('Education')
+st.title('Education')
 st.subheader('**Masters in Data Mining and Knowledge Management**')
 st.markdown(
     '''
