@@ -21,12 +21,12 @@ st.markdown(
 st.subheader('**Cloud Technologies**')
 
 st.markdown(
-    '''
-        - Amazon Web Services (AWS) 
+    ''' 
         - AWS Glue 
         - Amazon Athena 
         - AWS Lambda
-        - Amazon Kinesis 
+        - S3 
+        - BigQuery
         - Amazon Elastic MapReduce (EMR) 
         - AWS SageMaker 
         - Amazon ECS
@@ -49,7 +49,10 @@ st.markdown(
     '''
         - Jenkins 
         - Docker 
-        - Kubernetes 
+        - Kubernetes
+        - Kafka
+        - RabbitMQ
+        
    '''
 )
 
