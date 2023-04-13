@@ -21,23 +21,21 @@ st.subheader('Open to Projects')
 
 st.markdown('''
 
-    - 🌱 Do you want to take your organization to the next level by using machine learning?
-    - 🔭 Do you want to solve complex business problems using data?
-    - 💰 Do you want to extract value our of organizational data?  
-    - 🔬 Do you to review your data strategy to deliver quality projects on time?
-    - 💬 Yes? The let's have a conversation without any strings attached. 
+    - 🌱 Do you want to capitalize machine learning for your organization?
+    - 🔭 Do you want to solve complex business problems using machine learning?
+    - 💰 Do you want to extract value out of your organizational data?  
+    - 🔬 Do you want to review your data strategy and deliver quality projects on time and budget?
+    - 💬 Let's have a conversation without any strings attached. 
     - 📧 muhammad.ahsan@gmail.com
 
 ''')
 
-st.markdown( '''
+st.markdown('''
 
     I''m an experienced full stack machine learning specialist with computer science background. 
     I have diverse experience of working with startups and corporates clients delivering successful 
     projects ranging from Data Science, Machine Learning, MLOps,Data Engineering to Data Architecture.  
-
-'''
-)
+''')
 
 st.subheader('Languages')
 st.markdown(
