@@ -12,13 +12,12 @@ st.markdown('''
     - 🔭 I’m currently working on multiple data science and machine learning initiatives
     - 👨 I solve business problem via data and machine learning powered software solutions
     - ❤️ I enjoy designing cloud solutions for ML driven applications
-    - ⏱ In my free time, I read about technological advancements in science and engineering
-    - 🌱 I’m specialized in advanced MLOps and experimenting with deep reinforcement learning
+    - ⏱  In my free time, I read about technological advancements in science and engineering
+    - 🌱 I’m specialized in Machine Learning, MLOps and Data Engineering
     
 ''')
 
 st.subheader('Open to Projects')
-
 st.markdown('''
 
     - 🌱 Do you want to capitalize machine learning for your organization?
