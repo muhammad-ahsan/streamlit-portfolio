@@ -14,7 +14,7 @@ st.markdown(
 )
 
 contact_form = """
-<form action="https://formsubmit.co/muhammad.ahsan@gmail.com" method="POST">
+<form action="https://formsubmit.co/0cf83266170d5d1f16791d7395c5e8fa" method="POST">
      <input type="hidden" name="_captcha" value="false">
      <input type="text" name="name" placeholder="Your Name" required>
      <input type="email" name="email" placeholder="Your Email" required>
