@@ -26,7 +26,7 @@ def local_css(file_name):
 
 local_css("style/style.css")
 
-st.subheader('Follow me on Social Media')
+st.subheader('Social Media')
 st.markdown(
     """
         - [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan/) 
