@@ -5,14 +5,6 @@ st.set_page_config(page_title="Contact Information")
 
 st.title(':mailbox: Contact Information')
 
-st.markdown(
-    """
-        - [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan/)
-        - [Twitter](https://twitter.com/_muhammad_ahsan)
-        - [Github](https://github.com/muhammad-ahsan)
-    """
-)
-
 contact_form = """
 <form action="https://formsubmit.co/0cf83266170d5d1f16791d7395c5e8fa" method="POST">
      <input type="hidden" name="_captcha" value="false">
@@ -33,4 +25,13 @@ def local_css(file_name):
 
 
 local_css("style/style.css")
+
+st.subheader('Follow me on Social Media')
+st.markdown(
+    """
+        - [LinkedIn](https://www.linkedin.com/in/muhammad-ahsan/) 
+        - [Twitter](https://twitter.com/_muhammad_ahsan) 
+        - [Github](https://github.com/muhammad-ahsan)
+    """
+)
 
