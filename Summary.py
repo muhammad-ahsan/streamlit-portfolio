@@ -24,10 +24,9 @@ st.markdown('''
     - 🔭 Do you want to solve complex business problems using machine learning?
     - 💰 Do you want to extract value out of your organizational data?  
     - 🔬 Do you want to review your data strategy and deliver quality projects on time and budget?
-    - 💬 Let's have a conversation without any strings attached. 
-    - 📧 muhammad.ahsan@gmail.com
-
-''')
+    - 💬 Let's have an [open conversation](Contact) without any strings attached.
+    
+''', unsafe_allow_html=True)
 
 st.markdown('''
 
