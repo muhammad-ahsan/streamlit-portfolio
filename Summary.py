@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title('Muhammad Ahsan (He/Him)')
-st.markdown('**Lead Machine Learning Engineer | Data Solutions Architect | Data Evangelist**')
+st.markdown('**Machine Learning Engineer | Data Solutions Architect | Data Evangelist**')
 
 st.subheader('About Me')
 st.markdown('I''m a proud "multikulti" human being located in Berlin (52.524° N, 13.410° E)')
