@@ -17,7 +17,7 @@ st.markdown(
     '''
 )
 
-st.subheader('Senior Data Scientist 🇩🇪')
+st.subheader('Lead Data Scientist 🇩🇪')
 st.markdown(
     '''
     - [Eraneos](https://www.eraneos.com/)
