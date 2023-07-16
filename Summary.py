@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title('Muhammad Ahsan (He/Him)')
-st.markdown('**Machine Learning Engineer | Data Solutions Architect | Data Evangelist**')
+st.markdown('**Lead Data Scientist | Data Solutions Architect | Data Evangelist**')
 
 st.subheader('About Me')
 st.markdown('I am a "multikulti" human being with my permanent base in Germany')
@@ -17,7 +17,7 @@ st.markdown('''
     
 ''')
 
-st.subheader('Open to Projects❗❗')
+st.subheader('Open to Projects❗')
 st.markdown('''
 
     - 🌱 Do you want to capitalize machine learning for your organization?
@@ -34,7 +34,6 @@ st.markdown(
         - English 🇬🇧 (Fluent)
         - Deutsch 🇩🇪 (Good Knowledge)
         - French 🇫🇷 (Basic)
-        - Urdu / Hindi 🇵🇰 (Fluent)
-        - Punjabi 🇵🇰 (Fluent)
+        - Urdu / Hindi 🇵🇰🇮🇳 (Fluent)
     """
 )
