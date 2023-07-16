@@ -17,7 +17,7 @@ st.markdown(
 )
 
 st.subheader('Lead Data Scientist 🇩🇪')
-st.caption('[Eraneos Germany (Telecommunication and Automotive)](https://www.eraneos.com/)')
+st.caption('[Eraneos Germany](https://www.eraneos.com/)')
 st.markdown(
     ''' 
     - Provide technical leadership and carving out data science roadmaps for the organization.
