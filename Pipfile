@@ -8,7 +8,6 @@ streamlit = "*"
 streamlit_lottie = "*"
 
 [dev-packages]
-pytest = "*"
 
 [requires]
 python_version = "3.9"
