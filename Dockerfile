@@ -13,9 +13,9 @@ RUN pip install pipenv
 
 COPY Pipfile .
 COPY Pipfile.lock .
+COPY lib .
 
 COPY .streamlit .
-COPY pages .
 COPY Summary.py .
 
 EXPOSE 8501
